@@ -1,6 +1,12 @@
-# Welcome to your CDK TypeScript project
+# Deploy AWS S3 Bucket resource using CDK app
 
-This is a blank project for CDK development with TypeScript.
+Prerequisites:
+
+https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html#getting_started_prerequisites
+
+Steps to follow:
+
+Navigate to bin/hello-cdk.ts and set your AWS Account number and region
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 

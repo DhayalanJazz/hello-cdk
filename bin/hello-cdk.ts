@@ -9,7 +9,7 @@ new HelloCdkStack(app, 'HelloCdkStack', {
 
   /* Uncomment the next line if you know exactly what Account and Region you
    * want to deploy the stack to. */
-  env: { account: '730335188829', region: 'us-east-1' },
+  env: { account: 'YOUR_ACCOUNT_NUMBER', region: 'YOUR_REGION' },
 
   /* For more information, see https://docs.aws.amazon.com/cdk/latest/guide/environments.html */
 });
